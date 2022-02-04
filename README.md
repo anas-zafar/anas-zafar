@@ -1,5 +1,22 @@
-### Hi there 👋
+### Hello Folks! 👋
 
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+
+class ResearchEngineer:
+
+    def __init__(self):
+        self.name = "Anas Zafar"
+        self.role = "Research Engineer"
+        self.researchinterests = ["Computer Vision", "Natural Language Processing","Deep Reinforcement Learning"]
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+
+me = ResearchEngineer()
+me.say_hi()
 <!--
 **anas-zafar/anas-zafar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
