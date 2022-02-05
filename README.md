@@ -20,7 +20,7 @@
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 
-![Stats](https://github-readme-stats.vercel.app/api?username={anas-zafar})
+![Stats](https://github-readme-stats.vercel.app/api?username={https://github.com/anas-zafar})
 
 
 <!--
