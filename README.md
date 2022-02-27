@@ -11,7 +11,7 @@
         self.role = "Research Engineer"
         self.researchinterests = ["Computer Vision", "Natural Language Processing","Deep Reinforcement Learning"]
         self.deeplearning = ["PyTorch","Tensorflow", "Keras"]
-        machineLearning: ["Pandas", "Numpy", "Scipy", "Spacy", "Octave", "Jupyter"]
+        self.machineLearning = ["Pandas", "Numpy", "Scipy", "Spacy", "Octave", "Jupyter"]
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
