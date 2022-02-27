@@ -25,7 +25,7 @@
 ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 
-![EEML 2021](EEML 2021.png)
+![EEML 2021](EEML_2021.png)
 <!--
 **anas-zafar/anas-zafar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
